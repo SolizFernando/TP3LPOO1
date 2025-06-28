@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClasesBase.Cliente">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAQAIAAAAAAAAAhAAAAIQQAAAQAAAIUAAACEAQA=</HashCode>
+      <FileName>Entities\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Prestamo">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAREAEAAAAAAAACQAAAEAAgBAAAABEAQIAAAACgBAI=</HashCode>
+      <FileName>Entities\Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Cuota">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAQAAAAAAAAQABAAEAAQABBAAAAQQAAAAAA=</HashCode>
+      <FileName>Entities\Cuota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Pago">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAAAAAAAAAQAACAEACgAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Entities\Pago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Periodo">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAgAgA=</HashCode>
+      <FileName>Entities\Periodo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Destino">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAAAAACAAAAI=</HashCode>
+      <FileName>Entities\Destino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Usuario">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAABAAAAQAgAAEAICAAAAAAAAAAAIAAAAI=</HashCode>
+      <FileName>Entities\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Rol">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Rol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

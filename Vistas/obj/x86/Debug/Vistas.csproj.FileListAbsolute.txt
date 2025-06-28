@@ -1,0 +1,88 @@
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPrincipal.resources
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaCliente.resources
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaDestino.resources
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaPeriodo.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaCliente.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaDestino.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaPeriodo.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPrincipal.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaCliente.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaDestino.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaPeriodo.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPrincipal.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos.mdf
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos_log.ldf
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmABMUsuarios.resources
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamo.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos.mdf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos_log.ldf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmABMUsuarios.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaCliente.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaDestino.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaPeriodo.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamo.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPrincipal.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.FrmPagos.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPagoPorCliente.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos.mdf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\prestamos_log.ldf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.exe
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\Vistas.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmABMUsuarios.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaCliente.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaDestino.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmAltaPeriodo.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamo.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmLogin.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPagoPorCliente.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.FrmPagos.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.frmPrincipal.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache

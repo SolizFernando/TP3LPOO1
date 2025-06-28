@@ -1,0 +1,34 @@
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\PC\documents\visual studio 2010\Projects\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Mili Martinez\Downloads\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos.mdf
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos_log.ldf
+C:\Users\abril\OneDrive\Documentos\UNI\5toAÑO\ejemplos\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos.mdf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos_log.ldf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos.mdf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\prestamos_log.ldf
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\cjch2\Downloads\LPOO1_GRUPO02-\LPOO1_GRUPO02\LPOO1_GRUPO02\LPOO1_GRUPO02\ClasesBase\obj\Debug\ClasesBase.pdb
